@@ -1,0 +1,84 @@
+EEG Signal Analysis - Left/Right Motor Imagery
+==============================================
+Subjects used: 20
+Runs used: [4, 8, 12]
+Reference sampling frequency: 160.0 Hz
+Total valid EDF files loaded: 60
+Total skipped files: 0
+Epoch window: 1.0 to 4.0 sec
+Accuracy: 0.4667
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        left       0.47      0.49      0.48        91
+       right       0.46      0.44      0.45        89
+
+    accuracy                           0.47       180
+   macro avg       0.47      0.47      0.47       180
+weighted avg       0.47      0.47      0.47       180
+
+
+USED FILES:
+eegmmidb\S001\S001R04.edf
+eegmmidb\S001\S001R08.edf
+eegmmidb\S001\S001R12.edf
+eegmmidb\S002\S002R04.edf
+eegmmidb\S002\S002R08.edf
+eegmmidb\S002\S002R12.edf
+eegmmidb\S003\S003R04.edf
+eegmmidb\S003\S003R08.edf
+eegmmidb\S003\S003R12.edf
+eegmmidb\S004\S004R04.edf
+eegmmidb\S004\S004R08.edf
+eegmmidb\S004\S004R12.edf
+eegmmidb\S005\S005R04.edf
+eegmmidb\S005\S005R08.edf
+eegmmidb\S005\S005R12.edf
+eegmmidb\S006\S006R04.edf
+eegmmidb\S006\S006R08.edf
+eegmmidb\S006\S006R12.edf
+eegmmidb\S007\S007R04.edf
+eegmmidb\S007\S007R08.edf
+eegmmidb\S007\S007R12.edf
+eegmmidb\S008\S008R04.edf
+eegmmidb\S008\S008R08.edf
+eegmmidb\S008\S008R12.edf
+eegmmidb\S009\S009R04.edf
+eegmmidb\S009\S009R08.edf
+eegmmidb\S009\S009R12.edf
+eegmmidb\S010\S010R04.edf
+eegmmidb\S010\S010R08.edf
+eegmmidb\S010\S010R12.edf
+eegmmidb\S011\S011R04.edf
+eegmmidb\S011\S011R08.edf
+eegmmidb\S011\S011R12.edf
+eegmmidb\S012\S012R04.edf
+eegmmidb\S012\S012R08.edf
+eegmmidb\S012\S012R12.edf
+eegmmidb\S013\S013R04.edf
+eegmmidb\S013\S013R08.edf
+eegmmidb\S013\S013R12.edf
+eegmmidb\S014\S014R04.edf
+eegmmidb\S014\S014R08.edf
+eegmmidb\S014\S014R12.edf
+eegmmidb\S015\S015R04.edf
+eegmmidb\S015\S015R08.edf
+eegmmidb\S015\S015R12.edf
+eegmmidb\S016\S016R04.edf
+eegmmidb\S016\S016R08.edf
+eegmmidb\S016\S016R12.edf
+eegmmidb\S017\S017R04.edf
+eegmmidb\S017\S017R08.edf
+eegmmidb\S017\S017R12.edf
+eegmmidb\S018\S018R04.edf
+eegmmidb\S018\S018R08.edf
+eegmmidb\S018\S018R12.edf
+eegmmidb\S019\S019R04.edf
+eegmmidb\S019\S019R08.edf
+eegmmidb\S019\S019R12.edf
+eegmmidb\S020\S020R04.edf
+eegmmidb\S020\S020R08.edf
+eegmmidb\S020\S020R12.edf
+
+SKIPPED FILES:

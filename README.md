@@ -3,6 +3,10 @@
 ### Brain-Computer Interface (BCI) Signal Analysis using CSP + LDA
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/arshc0der/EEG-Motor-Imagery-Classification/refs/heads/main/results/preview/preview.png" width="90%" alt="EEG Motor Imagery Classification Image"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/status-Completed-brightgreen.svg" />
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter&logoColor=white" />
